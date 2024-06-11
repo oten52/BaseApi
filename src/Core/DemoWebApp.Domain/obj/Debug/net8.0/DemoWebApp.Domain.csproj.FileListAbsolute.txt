@@ -1,0 +1,11 @@
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\bin\Debug\net8.0\DemoWebApp.Domain.deps.json
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\bin\Debug\net8.0\DemoWebApp.Domain.dll
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\bin\Debug\net8.0\DemoWebApp.Domain.pdb
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\DemoWebApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\DemoWebApp.Domain.AssemblyInfoInputs.cache
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\DemoWebApp.Domain.AssemblyInfo.cs
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\DemoWebApp.Domain.csproj.CoreCompileInputs.cache
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\DemoWebApp.Domain.dll
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\refint\DemoWebApp.Domain.dll
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\DemoWebApp.Domain.pdb
+D:\BTO\BaseApi\WebApplication\src\Core\DemoWebApp.Domain\obj\Debug\net8.0\ref\DemoWebApp.Domain.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0B+1Y321Iz0DZhygZwx7WqO8jyoJUNuh4+o6VG+GFLXIH/Zvs+5aareWCKKJT/X9I98O8wIds24ApcFhdKRZQA==",
+  "success": true,
+  "projectFilePath": "D:\\BTO\\BaseApi\\WebApplication\\src\\Core\\DemoWebApp.Application\\DemoWebApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DemoWebApp.WebApi.Controllers.TestController",
+    "Method": "Test",
+    "RelativePath": "api/Test/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
